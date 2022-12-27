@@ -1,2 +1,2 @@
-# cubing budy
+# cubing buddy
 
